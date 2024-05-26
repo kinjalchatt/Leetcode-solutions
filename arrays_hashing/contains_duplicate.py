@@ -1,5 +1,5 @@
 """
-Leetcode 217. Contains Duplicate 
+Leetcode 217. Contains Duplicate Solution  
 """
 
 from typing import List
