@@ -1,5 +1,5 @@
 """
-Leetcode 1. Two Sum
+Leetcode 1. Two Sum problem solution 
 """
 #efficient solution:
 from typing import List
